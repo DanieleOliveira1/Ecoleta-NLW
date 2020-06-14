@@ -13,11 +13,4 @@ Projeto criado para conectar pontos de coleta e facilitar a localização, poden
 *Resultado da Pesquisa*
 <img  src="https://user-images.githubusercontent.com/62821027/84599692-4cf29280-ae4a-11ea-871d-8cc39bbc495a.png">
 
-<br>
-**Tecnologias Usadas**
--TypeScript
--Node.js
--ReactJS
--React Native
-
 
