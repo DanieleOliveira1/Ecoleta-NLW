@@ -3,7 +3,7 @@
 </p>
 <h3>Next Level Week - Ecoleta</h3>
 
-**Interface do projeto**
+**Interface do projeto** <br>
 *Página Inicial*
 <img  src="https://user-images.githubusercontent.com/62821027/84599918-f25a3600-ae4b-11ea-9a8f-6ff411ebc838.png">
 *Cadastro do ponto de coleta*
