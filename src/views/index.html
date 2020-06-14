@@ -1,0 +1,30 @@
+﻿{% extends "./partials/layout.html" %}
+
+    {% set bodyId = "page-home" %}
+        
+    <title>Ecoleta</title>
+
+    {% block styles %}
+        <link href="./EstilosCSS/pageHome.css" rel="stylesheet">
+    {% endblock styles %}
+        
+            {#<div id="page-home">#}
+    {% block content %}
+            
+        <div class="content ">
+            <header>
+                <img src="./assets/logo.svg" alt="Logomarca" />
+                <a href="./create-point"><span ></span> Cadastre um ponto de coleta</a>
+            </header>
+
+            <main>
+                <h1 class="red">{{title}}</h1>
+                <p>Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.</p>
+                <a href="./modal"><span ></span><strong ></strong>Pesquisar pontos de coleta</a>
+            </main>  
+        </div>
+            
+    {% endblock content %}
+
+        
+           

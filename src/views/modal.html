@@ -1,0 +1,36 @@
+ {% extends "./partials/layout.html" %}
+
+     
+        
+        <title>Ecoleta</title>
+
+        {% block styles %}
+            <link href="./EstilosCSS/pageHome.css" rel="stylesheet">
+            <link href="./EstilosCSS/modal.css" rel="stylesheet">
+        {% endblock styles %}
+        
+            {#<div id="page-home">#}
+{% block content %}
+    <div class="overlay">
+        <div id="modal" class="hide">
+                <div class="content">
+                    <div class="header">
+                        <h1>Pontos de coleta</h1>
+                        <a href="/">Fechar</a>
+                    </div>
+                    <form action="./search">
+                        <label for="search">
+                            Cidade
+                        </label>
+                        <div class="search field">
+                            <input type="text" name="search" placeholder="Pesquise por cidade">
+                            <button>
+                            <img src="./assets/search.svg" alt="Buscar">
+                            </button>
+                        </div>
+                    </form>
+                </div>
+        </div>
+    </div>
+{% endblock content%}
+
