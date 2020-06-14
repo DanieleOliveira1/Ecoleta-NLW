@@ -3,6 +3,8 @@
 </p>
 <h3>Next Level Week - Ecoleta</h3>
 
+**Sobre o Projeto**
+Projeto criado para conectar pontos de coleta e facilitar a localização, podendo também criar o seu próprio ponto de coleta.  <br><br>
 **Interface do projeto** <br><br>
 *Página Inicial*
 <img  src="https://user-images.githubusercontent.com/62821027/84599918-f25a3600-ae4b-11ea-9a8f-6ff411ebc838.png">
