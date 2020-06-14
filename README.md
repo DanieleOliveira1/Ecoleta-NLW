@@ -15,9 +15,9 @@ Projeto criado para conectar pontos de coleta e facilitar a localização, poden
 
 <br>
 **Tecnologias Usadas**
-*TypeScript
-*Node.js
-*ReactJS
-*React Native
+-TypeScript
+-Node.js
+-ReactJS
+-React Native
 
 
